@@ -49,6 +49,7 @@ Terminal 2：python TwinStore1_main.py client \DataFile\1mb
 
 **Test**
 
-The specific content of the experiment can be found in the test_deadme.txt file.
+The specific content of the experiment can be found in the test_readme.txt file.
+
 
 
