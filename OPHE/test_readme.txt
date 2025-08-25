@@ -5,8 +5,8 @@ The encryption time (total_encryption_time) includes the authentication time for
 The decryption time (total_decryption _time) includes the generation time of opakem's token (OPaKEM_Token_time), the decryption time of opakem (OPaKEM_decps_time), and the decryption time of the data ciphertext (dec_time), and other components.
 
 Specific operating steps:
-1. Run the server-side; python TwinStore1_main.py server
-2. Run the client; python TwinStore1_main.py client \DataFile\1mb
+1. Run the server-side：python TwinStore1_main.py server
+2. Run the client：python TwinStore1_main.py client \DataFile\1mb
 3. Record experimental data;
 4. Modify file size and run repeatedly;
 
@@ -20,4 +20,5 @@ Finally, analyze and summarize the recorded experimental data.
 TEST2: Test the performance of opakem under different security parameters using OPaKEM_order.py;
 1. Fix the length of the password to a 12 length string and modify the length of the security parameter.
 2. The length of the fixed security parameter , and the length of the password can be modified.
+
 
