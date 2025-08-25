@@ -1,3 +1,3 @@
-OPHE的实验代码所在目录为OPHE
+The directory where OPHE's experimental code is located is OPHE
 
-OPHE的对比试验所在目录为PBCS
+The directory for OPHE's comparative experiment is PBCS
